@@ -1,2 +1,5 @@
 *.csv
 *.pkl
+*.svmlight
+*.jar
+*.scores
