@@ -1,0 +1,27 @@
+lambdaMART_model_k5_l7_mls50000
+1000 trees
+NDCG@5 on training data: 0.3715
+NDCG@5 on validation data: 0.3609
+Kaggle: 0.36662
+
+lambdaMART_model_k5_L10_mls50000
+1000 trees
+NDCG@5 on training data: 0.3715
+NDCG@5 on validation data: 0.3609
+
+lambdaMART_model_k5_t5000_L10_mls50000
+4413 trees
+NDCG@5 on training data: 0.383
+NDCG@5 on validation data: 0.3673
+
+lambdaMART_model_k5_t10000_L100
+1721 trees
+NDCG@5 on training data: 0.4396
+NDCG@5 on validation data: 0.3736
+Kaggle: 0.37898
+
+lambdaMART_model_k5_t10000_L500
+888 trees
+NDCG@5 on training data: 0.5068
+NDCG@5 on validation data: 0.3729
+Kaggle: 0.37956

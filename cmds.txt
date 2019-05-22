@@ -1,2 +1,2 @@
-java -jar RankLib-2.11.jar -train train.svmlight -validate vali.svmlight -ranker 6 -mls 50 -estop 10 -metric2t NDCG@38 -save lambdaMART_model.txt
+java -jar RankLib-2.11.jar -train train.svmlight -validate vali.svmlight -ranker 6 -tree 5000 -estop 100 -metric2t NDCG@5 -save lambdaMART_model.txt
 java -jar RankLib-2.11.jar -rank test.svmlight -load lambdaMART_model.txt -score lambdaMART.scores
