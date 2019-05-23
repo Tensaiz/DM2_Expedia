@@ -1,3 +1,63 @@
+lambdaMART_model_k5_t1000_L7_mls50000.txt
+---
+Feature[1] :     160
+Feature[2] :     137
+Feature[3] :     386
+Feature[4] :     397
+Feature[5] :     286
+Feature[6] :      79
+Feature[7] :    1194
+Feature[8] :    1566
+Feature[9] :     886
+Feature[10] :     162
+Feature[11] :      77
+Feature[12] :     176
+Feature[13] :     145
+Feature[14] :     127
+Feature[15] :      66
+Feature[18] :     129
+Feature[19] :     212
+Feature[29] :    1009
+Feature[30] :     526
+Feature[31] :     545
+Feature[32] :      51
+Feature[33] :       3
+Feature[34] :       7
+Feature[35] :       4
+Feature[36] :      51
+Feature[37] :     556
+---
+lambdaMART_model_k5_t5000_L10_mls50000.txt
+---
+Feature[1] :     700
+Feature[2] :     501
+Feature[3] :    1573
+Feature[4] :    1114
+Feature[5] :     846
+Feature[6] :     249
+Feature[7] :    4483
+Feature[8] :    5093
+Feature[9] :    2004
+Feature[10] :     434
+Feature[11] :    1088
+Feature[12] :     558
+Feature[13] :     551
+Feature[14] :     299
+Feature[15] :     251
+Feature[16] :       2
+Feature[17] :      44
+Feature[18] :     705
+Feature[19] :     388
+Feature[29] :    4873
+Feature[30] :    3224
+Feature[31] :    2567
+Feature[32] :     325
+Feature[33] :      49
+Feature[34] :     175
+Feature[35] :     127
+Feature[36] :     345
+Feature[37] :    2640
+---
 lambdaMART_model_k5_t10000_L100
 Feature[1] :    2525
 Feature[2] :    3130
